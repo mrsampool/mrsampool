@@ -8,7 +8,6 @@
 - 👨‍🏫 I'm currently working as a ```Software Engineering Resident``` @ **Hack Reactor**.
 - 📆 I will be **available** to start a new role starting ***February 2022***.
 - 🏔 I am located in Colorado but am open to remote work.
----
 - 💬 **Want to connect? I'd love to hear from you!**
 - 📫 sambpool@gmail.com | https://www.linkedin.com/in/sampool/
 
