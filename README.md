@@ -10,9 +10,6 @@
 
 ``` React ``` - ``` Node ``` - ``` Express ``` - ``` Jest ``` - ``` PostgreSQL ``` - ``` MySQL ``` - ``` MongoDB ```
 
-![](https://github.com/mrsampool/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/mrsampool/github-stats/blob/master/generated/languages.svg)
-
 <!--
 **mrsampool/mrsampool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
