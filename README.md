@@ -2,6 +2,8 @@
 
 - 🧑🏼‍💻 I'm a **full stack** dev who works mainly with **JavaScript**.
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrsampool&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Frontend
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -27,14 +29,14 @@
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
-- 🎨 Check out my portfolio here: https://sampool.dev/
+
 ---
 - 👨‍🏫 I'm currently working as a ```Software Engineering Resident``` @ **Hack Reactor**.
 - 📆 I will be **available** to start a new role starting ***February 2022***.
 - 🏔 I am located in Colorado but am open to remote work.
 - 💬 **Want to connect? I'd love to hear from you!**
 - 📫 sambpool@gmail.com | https://www.linkedin.com/in/sampool/
-
+- 🎨 Check out my portfolio here: https://sampool.dev/
 
 
 <!--
