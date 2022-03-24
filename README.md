@@ -1,7 +1,5 @@
 # Hi there 👋 Sam Pool here.
 
-- 🧑🏼‍💻 I'm a **full stack** dev who works mainly with **JavaScript**.
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrsampool&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Languages
@@ -19,7 +17,6 @@
 ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Ruby On Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
@@ -39,11 +36,10 @@
 
 
 ---
-- 👨‍🏫 I'm currently working as a ```Software Engineering Resident``` @ **Hack Reactor**.
+- 🧑‍💻 I'm currently working as a ```Software Engineer``` @ **[Goalbook](https://goalbookapp.com/)**.
 - 💬 **Want to connect? I'd love to hear from you!**
 - 📫 sambpool@gmail.com | https://www.linkedin.com/in/sampool/
 - 🎨 Check out my portfolio here: https://sampool.dev/
-
 
 <!--
 **mrsampool/mrsampool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
